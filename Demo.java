@@ -20,6 +20,6 @@ class Solution {
                 right--;
             }
         }
-        return ans;//返回结果
+        return ans;
     }
 }
